@@ -10,6 +10,30 @@
     },
     "items": [
         {
+            "id": "https://christinapoguter.netlify.app/einzelprojekte.html",
+            "url": "https://christinapoguter.netlify.app/einzelprojekte.html",
+            "title": "Single projects",
+            "author": {
+                "name": "Christina Poguter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-22T08:34:05+01:00",
+            "date_modified": "2024-11-22T08:34:42+01:00"
+        },
+        {
+            "id": "https://christinapoguter.netlify.app/newest-posts.html",
+            "url": "https://christinapoguter.netlify.app/newest-posts.html",
+            "title": "Newest posts",
+            "author": {
+                "name": "Christina Poguter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-22T08:31:50+01:00",
+            "date_modified": "2024-11-22T08:31:50+01:00"
+        },
+        {
             "id": "https://christinapoguter.netlify.app/christinas-post.html",
             "url": "https://christinapoguter.netlify.app/christinas-post.html",
             "title": "Christinas Post",
