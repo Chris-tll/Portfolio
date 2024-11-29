@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://christinapoguter.netlify.app/mbot-projekt.html",
+            "url": "https://christinapoguter.netlify.app/mbot-projekt.html",
+            "title": "MBOT-Projekt",
+            "summary": "MBot2 – Fernsteuerung und Automatisierung GitHub-Repository-Group-MBot2 Im Rahmen einer Gruppenarbeit haben wir eine Anwendung entwickelt, um den MBot2 von mBlock aus der Ferne zu steuern. Der Roboter verfügt über eine Vielzahl von Sensoren (z.B. Ultraschall-, Lichtsensor, Lagesensor) und kann über MicroPython programmiert werden. Unsere Anwendung&hellip;",
+            "content_html": "<h3><strong>MBot2 – Fernsteuerung und Automatisierung</strong></h3>\n<p><a href=\"https://github.com/orgs/Gruppe5HTL/repositories\">GitHub-Repository-Group-MBot2</a></p>\n<p>Im Rahmen einer Gruppenarbeit haben wir eine Anwendung entwickelt, um den <strong>MBot2</strong> von mBlock aus der Ferne zu steuern. Der Roboter verfügt über eine Vielzahl von Sensoren (z.B. Ultraschall-, Lichtsensor, Lagesensor) und kann über <strong>MicroPython</strong> programmiert werden. Unsere Anwendung ermöglicht es, den Roboter sowohl von einem <strong>PC</strong> als auch von einem <strong>mobilen Endgerät</strong> zu steuern. Die Steuerung erfolgt über ein WLAN-Netzwerk, wobei der Roboter sich automatisch mit dem Netzwerk verbindet und eine Verbindung zur Anwendung aufbaut.</p>\n<hr>\n<h5><strong>Wichtige Funktionen:</strong></h5>\n<ul>\n<li>Steuerung des MBots über <strong>PC</strong> und <strong>Handy</strong></li>\n<li>Anzeige und regelmäßige Aktualisierung der Werte sämtlicher <strong>Sensoren und Aktoren</strong></li>\n<li>Einstellbare <strong>Fahrgeschwindigkeit</strong> und Steuerbefehle wie vorwärts, rückwärts, links, rechts</li>\n<li><strong>Suicide-Prevention</strong>-Feature zur Vermeidung von Kollisionen</li>\n<li>Anzeige der <strong>IP-Adresse</strong> nach erfolgreicher WLAN-Verbindung</li>\n<li><strong>Linienfolgemodus</strong>, bei dem der Roboter automatisch einer Linie folgt</li>\n<li>Steuerung und Anpassung der <strong>LED-Farben</strong> des Robots über die Anwendung</li>\n</ul>\n<hr>\n<h5><strong>Technische Details:</strong></h5>\n<ul>\n<li>Der Roboter nutzt <strong>MicroPython</strong> für die Programmierung, das über die <strong>cyberpi</strong>-Controllereinheit mit dem Roboter verbunden ist.</li>\n<li>Die Kommunikation erfolgt über <strong>WLAN</strong>, wobei die Verbindung durch visuelle <strong>LED-Statusanzeigen</strong> des Controllers angezeigt wird (blau für Verbindungsaufbau, grün für erfolgreiche Verbindung, rot für Fehler).</li>\n<li>Das System wurde nach den <strong>agilen Methoden (SCRUM)</strong> entwickelt, mit regelmäßigem Einsatz von <strong>Sprints</strong> und <strong>GitHub</strong> für die Quellcode- und Dokumentationsverwaltung.</li>\n</ul>\n<hr>\n<h5><strong>Technologien:</strong></h5>\n<ul>\n<li><strong>MicroPython</strong> für die Programmierung des MBot2</li>\n<li><strong>WLAN-Kommunikation</strong> zur Verbindung zwischen Roboter und Anwendung</li>\n<li><strong>SCRUM</strong> für das agile Projektmanagement</li>\n<li><strong>GitHub</strong> für Versionskontrolle und Dokumentation</li>\n</ul>\n<hr>\n<h5><strong>Ziel des Projekts:</strong></h5>\n<p><br>Das Ziel dieses Projekts war es, einen flexiblen, benutzerfreundlichen Steuerungsmechanismus für den MBot2 zu entwickeln, der sowohl auf <strong>PCs</strong> als auch auf <strong>mobilen Geräten</strong> funktioniert und verschiedene Funktionen wie automatische Steuerung und Sicherheitsfeatures bietet.</p>\n<hr>\n<h5><strong>Fazit:</strong></h5>\n<p><br>Das Projekt war eine spannende Herausforderung, bei der wir die Anwendung zur Steuerung des <strong>MBot2</strong> erfolgreich entwickelt haben. Durch die Verwendung von <strong>MicroPython</strong> und die Implementierung von Funktionen wie der <strong>Suicide Prevention</strong> und dem <strong>Linienfolgemodus</strong> konnten wir sicherstellen, dass der Roboter sowohl sicher als auch effizient arbeitet. Die Verbindung zwischen dem Roboter und der Anwendung über <strong>WLAN</strong> funktionierte reibungslos, und die Steuerung von <strong>PC</strong> und <strong>Handy</strong> stellte sicher, dass der Roboter in verschiedenen Szenarien genutzt werden konnte. Das Projekt hat uns nicht nur in der Programmierung weitergebracht, sondern auch wertvolle Erfahrungen im <strong>agilen Projektmanagement</strong> und in der <strong>Teamarbeit</strong> vermittelt.</p>",
+            "author": {
+                "name": "Christina Poguter"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-11-22T12:07:18+01:00",
+            "date_modified": "2024-11-22T12:11:08+01:00"
+        },
+        {
             "id": "https://christinapoguter.netlify.app/wettbuero.html",
             "url": "https://christinapoguter.netlify.app/wettbuero.html",
             "title": "Wettbuero",
@@ -21,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2024-11-22T10:38:48+01:00",
-            "date_modified": "2024-11-22T12:02:26+01:00"
+            "date_modified": "2024-11-22T12:11:15+01:00"
         },
         {
             "id": "https://christinapoguter.netlify.app/adventskalender.html",
@@ -35,7 +49,7 @@
             "tags": [
             ],
             "date_published": "2024-11-22T09:36:14+01:00",
-            "date_modified": "2024-11-22T12:02:20+01:00"
+            "date_modified": "2024-11-22T12:11:23+01:00"
         }
     ]
 }

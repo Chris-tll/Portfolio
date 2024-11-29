@@ -3,12 +3,66 @@
     <title>Christina Poguter</title>
     <link href="https://christinapoguter.netlify.app/feed.xml" rel="self" />
     <link href="https://christinapoguter.netlify.app" />
-    <updated>2024-11-22T12:02:26+01:00</updated>
+    <updated>2024-11-22T12:11:23+01:00</updated>
     <author>
         <name>Christina Poguter</name>
     </author>
     <id>https://christinapoguter.netlify.app</id>
 
+    <entry>
+        <title>MBOT-Projekt</title>
+        <author>
+            <name>Christina Poguter</name>
+        </author>
+        <link href="https://christinapoguter.netlify.app/mbot-projekt.html"/>
+        <id>https://christinapoguter.netlify.app/mbot-projekt.html</id>
+
+        <updated>2024-11-22T12:07:18+01:00</updated>
+            <summary>
+                <![CDATA[
+                    MBot2 – Fernsteuerung und Automatisierung GitHub-Repository-Group-MBot2 Im Rahmen einer Gruppenarbeit haben wir eine Anwendung entwickelt, um den MBot2 von mBlock aus der Ferne zu steuern. Der Roboter verfügt über eine Vielzahl von Sensoren (z.B. Ultraschall-, Lichtsensor, Lagesensor) und kann über MicroPython programmiert werden. Unsere Anwendung&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h3><strong>MBot2 – Fernsteuerung und Automatisierung</strong></h3>
+<p><a href="https://github.com/orgs/Gruppe5HTL/repositories">GitHub-Repository-Group-MBot2</a></p>
+<p>Im Rahmen einer Gruppenarbeit haben wir eine Anwendung entwickelt, um den <strong>MBot2</strong> von mBlock aus der Ferne zu steuern. Der Roboter verfügt über eine Vielzahl von Sensoren (z.B. Ultraschall-, Lichtsensor, Lagesensor) und kann über <strong>MicroPython</strong> programmiert werden. Unsere Anwendung ermöglicht es, den Roboter sowohl von einem <strong>PC</strong> als auch von einem <strong>mobilen Endgerät</strong> zu steuern. Die Steuerung erfolgt über ein WLAN-Netzwerk, wobei der Roboter sich automatisch mit dem Netzwerk verbindet und eine Verbindung zur Anwendung aufbaut.</p>
+<hr>
+<h5><strong>Wichtige Funktionen:</strong></h5>
+<ul>
+<li>Steuerung des MBots über <strong>PC</strong> und <strong>Handy</strong></li>
+<li>Anzeige und regelmäßige Aktualisierung der Werte sämtlicher <strong>Sensoren und Aktoren</strong></li>
+<li>Einstellbare <strong>Fahrgeschwindigkeit</strong> und Steuerbefehle wie vorwärts, rückwärts, links, rechts</li>
+<li><strong>Suicide-Prevention</strong>-Feature zur Vermeidung von Kollisionen</li>
+<li>Anzeige der <strong>IP-Adresse</strong> nach erfolgreicher WLAN-Verbindung</li>
+<li><strong>Linienfolgemodus</strong>, bei dem der Roboter automatisch einer Linie folgt</li>
+<li>Steuerung und Anpassung der <strong>LED-Farben</strong> des Robots über die Anwendung</li>
+</ul>
+<hr>
+<h5><strong>Technische Details:</strong></h5>
+<ul>
+<li>Der Roboter nutzt <strong>MicroPython</strong> für die Programmierung, das über die <strong>cyberpi</strong>-Controllereinheit mit dem Roboter verbunden ist.</li>
+<li>Die Kommunikation erfolgt über <strong>WLAN</strong>, wobei die Verbindung durch visuelle <strong>LED-Statusanzeigen</strong> des Controllers angezeigt wird (blau für Verbindungsaufbau, grün für erfolgreiche Verbindung, rot für Fehler).</li>
+<li>Das System wurde nach den <strong>agilen Methoden (SCRUM)</strong> entwickelt, mit regelmäßigem Einsatz von <strong>Sprints</strong> und <strong>GitHub</strong> für die Quellcode- und Dokumentationsverwaltung.</li>
+</ul>
+<hr>
+<h5><strong>Technologien:</strong></h5>
+<ul>
+<li><strong>MicroPython</strong> für die Programmierung des MBot2</li>
+<li><strong>WLAN-Kommunikation</strong> zur Verbindung zwischen Roboter und Anwendung</li>
+<li><strong>SCRUM</strong> für das agile Projektmanagement</li>
+<li><strong>GitHub</strong> für Versionskontrolle und Dokumentation</li>
+</ul>
+<hr>
+<h5><strong>Ziel des Projekts:</strong></h5>
+<p><br>Das Ziel dieses Projekts war es, einen flexiblen, benutzerfreundlichen Steuerungsmechanismus für den MBot2 zu entwickeln, der sowohl auf <strong>PCs</strong> als auch auf <strong>mobilen Geräten</strong> funktioniert und verschiedene Funktionen wie automatische Steuerung und Sicherheitsfeatures bietet.</p>
+<hr>
+<h5><strong>Fazit:</strong></h5>
+<p><br>Das Projekt war eine spannende Herausforderung, bei der wir die Anwendung zur Steuerung des <strong>MBot2</strong> erfolgreich entwickelt haben. Durch die Verwendung von <strong>MicroPython</strong> und die Implementierung von Funktionen wie der <strong>Suicide Prevention</strong> und dem <strong>Linienfolgemodus</strong> konnten wir sicherstellen, dass der Roboter sowohl sicher als auch effizient arbeitet. Die Verbindung zwischen dem Roboter und der Anwendung über <strong>WLAN</strong> funktionierte reibungslos, und die Steuerung von <strong>PC</strong> und <strong>Handy</strong> stellte sicher, dass der Roboter in verschiedenen Szenarien genutzt werden konnte. Das Projekt hat uns nicht nur in der Programmierung weitergebracht, sondern auch wertvolle Erfahrungen im <strong>agilen Projektmanagement</strong> und in der <strong>Teamarbeit</strong> vermittelt.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Wettbuero</title>
         <author>
