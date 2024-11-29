@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://christinapoguter.netlify.app/nimpola.html",
+            "url": "https://christinapoguter.netlify.app/nimpola.html",
+            "title": "Nimpola",
+            "summary": "Nimpola - Ein Story-Survival-Spiel im Polygon-Stil Im Rahmen einer Gruppenarbeit haben wir ein spannendes Spiel entwickelt: Nimpola. Dieses Projekt vereinte Kreativität, technische Herausforderungen und Teamarbeit. Unser Ziel war es, ein immersives Spielerlebnis zu schaffen, das sowohl mit Gameplay als auch mit technischen Features überzeugt Die&hellip;",
+            "content_html": "<p data-pm-slice=\"1 1 []\"><strong>Nimpola - Ein Story-Survival-Spiel im Polygon-Stil</strong></p>\n<p>Im Rahmen einer Gruppenarbeit haben wir ein spannendes Spiel entwickelt: <strong>Nimpola</strong>. Dieses Projekt vereinte Kreativität, technische Herausforderungen und Teamarbeit. Unser Ziel war es, ein immersives Spielerlebnis zu schaffen, das sowohl mit Gameplay als auch mit technischen Features überzeugt</p>\n<hr>\n<h3 data-pm-slice=\"1 1 []\"><strong>Die Idee hinter Nimpola</strong></h3>\n<p>Die Story von Nimpola dreht sich um eine mysteriöse Insel, die Wissenschaftlern Rätsel aufgibt. Wegen unerklärlicher Signalstörungen konnte die Insel nicht mehr überwacht werden. Ein Wissenschaftler wurde entsandt, um die Ursache zu untersuchen, doch auch er verschwand spurlos. Als Spieler wird man auf diese Insel geschickt, um das Geheimnis zu lüften, den Wissenschaftler zu finden und die Quelle der Signalstörungen zu entdecken.</p>\n<hr>\n<h3 data-pm-slice=\"1 1 []\"><strong>Wichtige Funktionen</strong></h3>\n<ul data-spread=\"false\" data-pm-slice=\"3 3 []\">\n<li>\n<p><strong>Die Insel</strong> ist in verschiedene Sektoren unterteilt, die mit zunehmender Schwierigkeit unterschiedliche Herausforderungen bieten.</p>\n</li>\n<li>\n<p><strong>Das Dorf:</strong> Ein wichtiger Bestandteil des Spiels ist das Vertrauen der Dorfbewohner, das durch das Erledigen von Aufgaben gewonnen wird. Ohne ihre Hilfe ist ein Weiterkommen kaum möglich.</p>\n</li>\n<li>\n<p><strong>Gefahren:</strong> Die Insel ist von Monstern bevölkert, die durch die Sektoren patrouillieren und den Spieler herausfordern.</p>\n</li>\n<li>\n<p><strong>Der Spieler:</strong> Neben grundlegenden Fähigkeiten steht dem Spieler ein animiertes Schwert zur Verfügung, das nicht nur zur Verteidigung dient, sondern auch taktische Elemente im Kampf bietet.</p>\n<hr></li>\n</ul>\n<h3 data-pm-slice=\"1 1 []\"><strong>Technische Highlights</strong></h3>\n<ul data-spread=\"false\" data-pm-slice=\"3 3 []\">\n<li>\n<p><strong>Blender</strong>: Hier haben wir die Map der Insel modelliert und optimiert. Der Polygon-Stil verleiht dem Spiel seinen einzigartigen Look.</p>\n</li>\n<li>\n<p><strong>Unity</strong>: Mit Unity haben wir die Spielwelt aufgebaut, Events und Mechaniken integriert.</p>\n</li>\n<li>\n<p><strong>C#</strong>: Die Programmierung des Spiels wurde mit C# umgesetzt.</p>\n</li>\n<li>\n<p><strong>Künstliche Intelligenz:</strong> Wir haben eine KI für die Gegner entwickelt, die adaptives Verhalten zeigt. Sie reagiert auf den Spieler, verfolgt ihn und agiert je nach Umgebung taktisch.</p>\n</li>\n<li>\n<p><strong>Animationen:</strong> Besonders stolz sind wir auf das animierte Schwert, das nicht nur visuell ansprechend ist, sondern auch durch dynamische Bewegungen für ein realistisches Spielerlebnis sorgt.</p>\n</li>\n<li>\n<p><strong>Level-Design:</strong> Die verschiedenen Sektoren der Insel wurden so gestaltet, dass sie das Fortschreiten im Spiel spannend und herausfordernd machen.</p>\n<hr></li>\n</ul>\n<h3 data-pm-slice=\"1 1 []\"><strong>Lessons Learned</strong></h3>\n<p data-pm-slice=\"1 1 []\">Dieses Projekt hat uns nicht nur technisches Wissen vermittelt, sondern uns auch gezeigt, wie wichtig gute <strong>Planung</strong> und <strong>Teamarbeit</strong> sind:</p>\n<ul data-spread=\"false\" data-pm-slice=\"3 3 []\">\n<li>\n<p><strong>Zeitplanung</strong>: Wir haben gelernt, wie man Aufgaben priorisiert und Deadlines setzt.</p>\n</li>\n<li>\n<p><strong>Kreativität trifft Realismus</strong>: Die Balance zwischen einer ambitionierten Vision und der praktischen Umsetzung war eine zentrale Lektion.</p>\n</li>\n<li>\n<p><strong>Teamdynamik</strong>: Kommunikation und das klare Verteilen von Verantwortlichkeiten haben uns geholfen, das Projekt erfolgreich abzuschließen.</p>\n<hr></li>\n</ul>\n<h3 data-pm-slice=\"1 1 []\"><strong>Technologien und Methodik</strong></h3>\n<ul data-spread=\"false\" data-pm-slice=\"3 3 []\">\n<li>\n<p><strong>Tools</strong>: Blender für die Map, Unity für die Spielmechaniken und C# für den Code.</p>\n</li>\n<li>\n<p><strong>Entwicklungsmethodik</strong>: Wir haben SCRUM verwendet, mit regelmäßigen Sprints und einer klaren Aufgabenverteilung.</p>\n</li>\n<li>\n<p><strong>Quellcode-Verwaltung</strong>: GitHub war unser zentraler Ort für Versionskontrolle und Dokumentation.</p>\n<hr></li>\n</ul>\n<h3 data-pm-slice=\"1 1 []\"><strong>Fazit</strong></h3>\n<p data-pm-slice=\"1 1 []\">Das Projekt war eine spannende Herausforderung, bei der wir die Welt von Nimpola zum Leben erweckt haben. Durch die Verwendung von Blender, Unity und C# sowie die Implementierung von Features wie adaptiver KI und Animationen konnten wir ein fesselndes Spiel schaffen. Nimpola zeigt, wie Kreativität und technische Umsetzung Hand in Hand gehen können, und ist ein Highlight in unserem Portfolio.</p>\n<p> </p>",
+            "author": {
+                "name": "Christina Poguter"
+            },
+            "tags": [
+                   "Gruppenarbeit"
+            ],
+            "date_published": "2024-11-29T09:11:17+01:00",
+            "date_modified": "2024-11-29T09:17:42+01:00"
+        },
+        {
             "id": "https://christinapoguter.netlify.app/mbot-projekt.html",
             "url": "https://christinapoguter.netlify.app/mbot-projekt.html",
             "title": "MBOT-Projekt",
@@ -19,9 +34,10 @@
                 "name": "Christina Poguter"
             },
             "tags": [
+                   "Gruppenarbeit"
             ],
             "date_published": "2024-11-22T12:07:18+01:00",
-            "date_modified": "2024-11-22T12:11:08+01:00"
+            "date_modified": "2024-11-29T09:02:08+01:00"
         },
         {
             "id": "https://christinapoguter.netlify.app/wettbuero.html",
@@ -33,9 +49,10 @@
                 "name": "Christina Poguter"
             },
             "tags": [
+                   "Einzelarbeit"
             ],
             "date_published": "2024-11-22T10:38:48+01:00",
-            "date_modified": "2024-11-22T12:11:15+01:00"
+            "date_modified": "2024-11-29T09:02:13+01:00"
         },
         {
             "id": "https://christinapoguter.netlify.app/adventskalender.html",
@@ -47,9 +64,10 @@
                 "name": "Christina Poguter"
             },
             "tags": [
+                   "Einzelarbeit"
             ],
             "date_published": "2024-11-22T09:36:14+01:00",
-            "date_modified": "2024-11-22T12:11:23+01:00"
+            "date_modified": "2024-11-29T09:02:18+01:00"
         }
     ]
 }
