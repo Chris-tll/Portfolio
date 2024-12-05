@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://christinapoguter.netlify.app/diplomarbeit.html",
+            "url": "https://christinapoguter.netlify.app/diplomarbeit.html",
+            "title": "Diplomarbeit",
+            "summary": "Projekt: Modernisierung der Repo Print Website Im Rahmen unserer Diplomarbeit haben wir die veraltete Website der Firma Repo Print komplett überarbeitet und modernisiert. Das Ziel war es, eine professionelle und funktionale Online-Präsenz zu schaffen, die den Fortschritt und die vielfältigen Angebote des Unternehmens widerspiegelt. Neben&hellip;",
+            "content_html": "<p><strong>Projekt: Modernisierung der Repo Print Website</strong></p>\n<p><br>Im Rahmen unserer Diplomarbeit haben wir die veraltete Website der Firma <strong>Repo Print</strong> komplett überarbeitet und modernisiert. Das Ziel war es, eine professionelle und funktionale Online-Präsenz zu schaffen, die den Fortschritt und die vielfältigen Angebote des Unternehmens widerspiegelt. Neben der Darstellung neuer Druckverfahren wie <strong>DTF-Druck</strong> und <strong>Textildruck</strong> wurde die Website um eine <strong>Shop-Funktion</strong> erweitert, die Kunden ermöglicht, Produkte wie Sticker und Folien direkt online zu bestellen.</p>\n<hr>\n<p><strong>Die Idee hinter dem Projekt:</strong><br>Repo Print ist ein Familienunternehmen, das seit 2010 auf dem Markt ist und sich auf Druckverfahren wie <strong>Tampondruck</strong> spezialisiert hat. Mit der Einführung neuer Technologien, darunter <strong>DTF-Druck</strong> und zukünftiger <strong>Stickerdruck</strong>, wurde es notwendig, eine Website zu schaffen, die diese Innovationen zeigt und das Unternehmen modern präsentiert.</p>\n<hr>\n<p><strong>Wichtige Funktionen:</strong></p>\n<ul>\n<li><strong>Shop-Funktion:</strong> Kunden können Sticker und Folien direkt online bestellen.</li>\n<li><strong>Interaktives Design-Tool:</strong> Ermöglicht es, Logos oder Designs virtuell auf Textilien zu platzieren.</li>\n<li><strong>Aktuelle Unternehmensinformationen:</strong> Darstellung aller Druckverfahren, Standorte und künftiger Angebote.</li>\n<li><strong>Modernes Design:</strong> Professionell gestaltete und leicht zu navigierende Oberfläche, die die Werte von Repo Print widerspiegelt.</li>\n</ul>\n<hr>\n<p><strong>Technologien und Methodik:</strong></p>\n<ul>\n<li><strong>Webentwicklung:</strong> Modernste Technologien und Frameworks für eine benutzerfreundliche und skalierbare Lösung.</li>\n<li><strong>SCRUM-Methodik:</strong> Agile Entwicklung mit klarer Aufgabenverteilung und regelmäßigen Sprints.</li>\n<li><strong>Quellcode-Verwaltung:</strong> Nutzung von <strong>GitHub</strong> für Versionskontrolle und Zusammenarbeit im Team.<hr></li>\n</ul>\n<p><strong>Aktueller Stand:</strong><br>Das Projekt befindet sich derzeit noch in der Entwicklungsphase. Erste Entwürfe und Konzepte wurden erstellt, und die grundlegende Struktur der neuen Website ist definiert. Der Fokus liegt aktuell auf der Implementierung der interaktiven Funktionen und des Online-Shops.</p>\n<hr>\n<p><strong>Ausblick:</strong><br>Mit der neuen Website soll Repo Print eine moderne, zukunftsfähige Plattform erhalten, die sowohl bestehende Kunden als auch neue Zielgruppen anspricht. Die interaktiven Features und der Online-Shop werden das Kundenerlebnis erheblich verbessern und das Unternehmen in der digitalen Welt optimal positionieren.</p>",
+            "author": {
+                "name": "Christina Poguter"
+            },
+            "tags": [
+                   "Gruppenarbeit"
+            ],
+            "date_published": "2024-12-05T17:21:09+01:00",
+            "date_modified": "2024-12-05T17:28:57+01:00"
+        },
+        {
             "id": "https://christinapoguter.netlify.app/nimpola.html",
             "url": "https://christinapoguter.netlify.app/nimpola.html",
             "title": "Nimpola",

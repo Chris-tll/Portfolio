@@ -3,12 +3,54 @@
     <title>Christina Poguter</title>
     <link href="https://christinapoguter.netlify.app/feed.xml" rel="self" />
     <link href="https://christinapoguter.netlify.app" />
-    <updated>2024-11-29T09:17:42+01:00</updated>
+    <updated>2024-12-05T17:28:57+01:00</updated>
     <author>
         <name>Christina Poguter</name>
     </author>
     <id>https://christinapoguter.netlify.app</id>
 
+    <entry>
+        <title>Diplomarbeit</title>
+        <author>
+            <name>Christina Poguter</name>
+        </author>
+        <link href="https://christinapoguter.netlify.app/diplomarbeit.html"/>
+        <id>https://christinapoguter.netlify.app/diplomarbeit.html</id>
+            <category term="Gruppenarbeit"/>
+
+        <updated>2024-12-05T17:21:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Projekt: Modernisierung der Repo Print Website Im Rahmen unserer Diplomarbeit haben wir die veraltete Website der Firma Repo Print komplett überarbeitet und modernisiert. Das Ziel war es, eine professionelle und funktionale Online-Präsenz zu schaffen, die den Fortschritt und die vielfältigen Angebote des Unternehmens widerspiegelt. Neben&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>Projekt: Modernisierung der Repo Print Website</strong></p>
+<p><br>Im Rahmen unserer Diplomarbeit haben wir die veraltete Website der Firma <strong>Repo Print</strong> komplett überarbeitet und modernisiert. Das Ziel war es, eine professionelle und funktionale Online-Präsenz zu schaffen, die den Fortschritt und die vielfältigen Angebote des Unternehmens widerspiegelt. Neben der Darstellung neuer Druckverfahren wie <strong>DTF-Druck</strong> und <strong>Textildruck</strong> wurde die Website um eine <strong>Shop-Funktion</strong> erweitert, die Kunden ermöglicht, Produkte wie Sticker und Folien direkt online zu bestellen.</p>
+<hr>
+<p><strong>Die Idee hinter dem Projekt:</strong><br>Repo Print ist ein Familienunternehmen, das seit 2010 auf dem Markt ist und sich auf Druckverfahren wie <strong>Tampondruck</strong> spezialisiert hat. Mit der Einführung neuer Technologien, darunter <strong>DTF-Druck</strong> und zukünftiger <strong>Stickerdruck</strong>, wurde es notwendig, eine Website zu schaffen, die diese Innovationen zeigt und das Unternehmen modern präsentiert.</p>
+<hr>
+<p><strong>Wichtige Funktionen:</strong></p>
+<ul>
+<li><strong>Shop-Funktion:</strong> Kunden können Sticker und Folien direkt online bestellen.</li>
+<li><strong>Interaktives Design-Tool:</strong> Ermöglicht es, Logos oder Designs virtuell auf Textilien zu platzieren.</li>
+<li><strong>Aktuelle Unternehmensinformationen:</strong> Darstellung aller Druckverfahren, Standorte und künftiger Angebote.</li>
+<li><strong>Modernes Design:</strong> Professionell gestaltete und leicht zu navigierende Oberfläche, die die Werte von Repo Print widerspiegelt.</li>
+</ul>
+<hr>
+<p><strong>Technologien und Methodik:</strong></p>
+<ul>
+<li><strong>Webentwicklung:</strong> Modernste Technologien und Frameworks für eine benutzerfreundliche und skalierbare Lösung.</li>
+<li><strong>SCRUM-Methodik:</strong> Agile Entwicklung mit klarer Aufgabenverteilung und regelmäßigen Sprints.</li>
+<li><strong>Quellcode-Verwaltung:</strong> Nutzung von <strong>GitHub</strong> für Versionskontrolle und Zusammenarbeit im Team.<hr></li>
+</ul>
+<p><strong>Aktueller Stand:</strong><br>Das Projekt befindet sich derzeit noch in der Entwicklungsphase. Erste Entwürfe und Konzepte wurden erstellt, und die grundlegende Struktur der neuen Website ist definiert. Der Fokus liegt aktuell auf der Implementierung der interaktiven Funktionen und des Online-Shops.</p>
+<hr>
+<p><strong>Ausblick:</strong><br>Mit der neuen Website soll Repo Print eine moderne, zukunftsfähige Plattform erhalten, die sowohl bestehende Kunden als auch neue Zielgruppen anspricht. Die interaktiven Features und der Online-Shop werden das Kundenerlebnis erheblich verbessern und das Unternehmen in der digitalen Welt optimal positionieren.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Nimpola</title>
         <author>
