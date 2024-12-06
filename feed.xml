@@ -3,7 +3,7 @@
     <title>Christina Poguter</title>
     <link href="https://christinapoguter.netlify.app/feed.xml" rel="self" />
     <link href="https://christinapoguter.netlify.app" />
-    <updated>2024-12-05T17:28:57+01:00</updated>
+    <updated>2024-12-06T08:20:01+01:00</updated>
     <author>
         <name>Christina Poguter</name>
     </author>
@@ -214,6 +214,7 @@
         <content type="html">
             <![CDATA[
                 <h3><strong>Race Royal Bets – Das ultimative Wettbüro-Erlebnis</strong></h3>
+<figure class="post__image"><img loading="lazy"  src="https://christinapoguter.netlify.app/media/posts/11/logo_betting-office.png" alt="Betting-Office-Logo" width="195" height="191" sizes="(min-width: 1500px) calc(7.87vw + 610px), (min-width: 900px) calc(44.48vw + 68px), (min-width: 780px) calc(8vw + 604px), calc(84.35vw + 23px)" srcset="https://christinapoguter.netlify.app/media/posts/11/responsive/logo_betting-office-xs.png 300w ,https://christinapoguter.netlify.app/media/posts/11/responsive/logo_betting-office-sm.png 480w ,https://christinapoguter.netlify.app/media/posts/11/responsive/logo_betting-office-md.png 768w"></figure>
 <p><a href="https://github.com/Chris-tll/Semester_Projekt_Wettbuero">GitHub-Repository-Wettbuero</a></p>
 <p><br><strong>Race Royal Bets</strong> ist eine Plattform, auf der Nutzer auf verschiedene <strong>automatisierte Rennen</strong> wetten können. Die Renntypen umfassen <strong>Pferderennen</strong>, <strong>Schneckenrennen</strong> und <strong>Hunderennen</strong>. Die Rennen werden automatisch erstellt, sodass sich die Spieler ganz auf das Setzen ihrer Wetten und das Verfolgen der Rennen konzentrieren können. Das Projekt umfasst eine <strong>WPF-Anwendung</strong>, eine begleitende <strong>Website</strong> und eine <strong>Datenbank</strong>, die alle relevanten Daten für die Rennen und Wetten speichert.</p>
 <hr>
@@ -248,7 +249,7 @@
 <li><strong>WPF (Windows Presentation Foundation):</strong> Für die Desktop-Anwendung</li>
 <li><strong>Datenbank</strong>: Speicherung der Renn- und Wettinformationen (z.B. MySQL, PostgreSQL)</li>
 <li><strong>HTML, CSS, JavaScript</strong>: Für die Website und deren Benutzeroberfläche</li>
-<li><strong>SQL-Datenbank:</strong> Zur Verwaltung der Daten und Ergebnisse</li>
+<li><strong>SQL-Datenbank &amp; Springboot:</strong> Zur Verwaltung der Daten und Ergebnisse</li>
 <li><strong>Visual Studio:</strong> Für die Entwicklung der Anwendung und die Datenbankintegration</li>
 </ul>
 <hr>
